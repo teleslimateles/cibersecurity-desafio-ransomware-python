@@ -1,4 +1,4 @@
-## Passo a Passo do Desafio Ransomware Utilizando o Python
+## Passo a Passo de como Decryptar um arquivo com Python
 
 import os
 import pyaes
